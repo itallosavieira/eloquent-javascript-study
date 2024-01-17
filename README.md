@@ -11,7 +11,6 @@ Welcome to my Eloquent JavaScript study repository! This repository is dedicated
 - [Notes](#notes)
 - [Exercises](#exercises)
 - [Projects](#projects)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About the Repository
